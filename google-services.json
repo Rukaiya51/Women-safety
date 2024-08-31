@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "904364656869",
+    "project_id": "womensafety-cacde",
+    "storage_bucket": "womensafety-cacde.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904364656869:android:a28587e201b59a6c422c0c",
+        "android_client_info": {
+          "package_name": "com.darkness.womensafety"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "904364656869-r0cksjjkda5fa0b7rgmskt3qug05sotu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHlcJdR3UrNPt_8l1ZmTEMMh8yp_37j2A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "904364656869-r0cksjjkda5fa0b7rgmskt3qug05sotu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
